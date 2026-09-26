@@ -12,6 +12,8 @@
 已配置的远端：`git@github.com:swx589/Hust-timetable.git`（SSH），仓库里已有一次 `first commit`。
 对应的 Pages 地址形如：**https://swx589.github.io/Hust-timetable/**
 
+直接下载apk文件直链：**https://www.hnykxd.me/fileovo/files/7d89039c63fd6ae5/hust-timetable.apk**
+
 ---
 
 ## 一、把改动推上去
