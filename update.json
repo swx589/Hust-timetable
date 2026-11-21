@@ -1,0 +1,12 @@
+{
+    "versionCode":  2,
+    "versionName":  "1.0.1",
+    "apkUrl":  "https://swx589.github.io/Hust-timetable/hust-timetable.apk",
+    "sha256":  "AFFED2E44A21E94D714E1507D765B808EC41A4439A18A793A517F1550BAD3248",
+    "size":  60310493,
+    "sizeText":  "57.5 MB",
+    "publishedAt":  "2026-11-21",
+    "minVersionCode":  1,
+    "force":  false,
+    "notes":  "天气条恢复显示城市（武汉）"
+}
